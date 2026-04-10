@@ -12,7 +12,7 @@ machine_specs = {
   memory    = 2048,
   disk_size = "65536",
 }
-iso_url      = "/Users/zayaan.dulmeer/Downloads/ubuntu-25.10-live-server-arm64.iso"
+iso_url      = "https://cdimage.ubuntu.com/releases/25.10/release/ubuntu-25.10-live-server-arm64.iso"
 iso_checksum = "sha256:ecf579664c0be9e4a68ae7b617399ce943c2dee49eb1fcc6702a5671a4f88320"
 addons = [
   "desktop"
